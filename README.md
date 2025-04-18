@@ -4,3 +4,4 @@ This is a small project which teaches one of the ways to create procedural anima
 This only concerns leg animations, but the knowledge and procedures can be applied to whatever else.
 
 Here is a YT-Tutorial on how to use the components:
+https://www.youtube.com/watch?v=PpPudgwqsSA
